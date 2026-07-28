@@ -2,7 +2,7 @@
 title: Unit 1 Assignment 01
 course: Discrete Structures
 unit: 1
-author: Ram
+author: Ram Mahato
 ---
 
 # Unit 1 Assignment 01
